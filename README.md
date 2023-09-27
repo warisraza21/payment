@@ -1,5 +1,5 @@
 # payment
-
+# Change the username and password to your sql creds in application properties files 
 #I have added one sql script run that script in workbench it will create schema (payment_gateway) and tables (merchant, payment) in it
  or you can create schema `payment_gateway` only table will get created once you run the Payment application
 
